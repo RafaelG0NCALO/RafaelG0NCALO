@@ -1,6 +1,6 @@
 ### Olá, Eu sou Rafael Gonçalo Figueiredo 👋
 
-<div>
+<div style='display: flex'>
   <a href="https://github.com/RafaelG0NCALO">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelG0NCALO&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="170em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelG0NCALO&layout=compact&langs_count=7&theme=jolly"/>
