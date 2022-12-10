@@ -1,11 +1,11 @@
 ### Olá, Eu sou Rafael Gonçalo Figueiredo 👋
 
-<div style="display: flex">
+<div>
   <a href="https://github.com/RafaelG0NCALO">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelG0NCALO&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="170em" width="100%" max-width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelG0NCALO&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="170em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelG0NCALO&layout=compact&langs_count=7&theme=jolly"/>
 </div>
- <div style="display: inline-block"><br>
+ <div style="display: inline_block"><br>
   <img align="center" alt="Rafael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
