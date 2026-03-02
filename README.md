@@ -43,7 +43,15 @@ Apaixonado por construir soluções web completas, desde interfaces até APIs e 
 
 ## Estatísticas
 
-<p align="left">
+<p align="center">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelG0NCALO&theme=tokyonight&hide_border=true&background=0d1117&stroke=6EE7B7&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=888"/>
+</p>
+
+<p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelG0NCALO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelG0NCALO&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelG0NCALO&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6EE7B7&line=6EE7B7&point=ffffff" alt="activity graph"/>
 </p>
