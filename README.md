@@ -1,117 +1,49 @@
-<div align="center">
+### Olá, eu sou Rafael Gonçalo Figueiredo 👋
 
-```
-██████╗  █████╗ ███████╗ █████╗ ███████╗██╗
-██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝██║
-██████╔╝███████║█████╗  ███████║█████╗  ██║
-██╔══██╗██╔══██║██╔══╝  ██╔══██║██╔══╝  ██║
-██║  ██║██║  ██║██║     ██║  ██║███████╗███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝
-```
+Desenvolvedor Fullstack · Liferay
 
-### `< Rafael Gonçalo Figueiredo />`
+Apaixonado por construir soluções web completas, desde interfaces até APIs e automações. Atualmente trabalhando com portais Liferay e explorando automação com IA.
 
-**Senior Fullstack Engineer · Liferay Specialist · Builder of things that scale**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6EE7B7&center=true&vCenter=true&width=500&lines=Liferay+DXP+%7C+Portal+Development;React+%7C+TypeScript+%7C+Java;REST+%2F+GraphQL+%7C+OSGi+%7C+Blade;Building+enterprise-grade+solutions)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 👨‍💻 Sobre mim
-
-```typescript
-const rafael = {
-  role: "Senior Fullstack Engineer",
-  location: "Brasil 🇧🇷",
-  specialties: ["Liferay DXP", "Portal Development", "Fullstack"],
-  stack: {
-    frontend:  ["React", "TypeScript", "JavaScript", "HTML5", "CSS3"],
-    backend:   ["Java", "Spring Boot", "OSGi", "REST API"],
-    platform:  ["Liferay DXP", "Liferay Commerce", "Blade CLI"],
-    devops:    ["Docker", "Git", "CI/CD"],
-  },
-  currentFocus: "Enterprise portals & digital experience platforms",
-  funFact: "Se tem um portal pra construir, pode mandar 🚀",
-};
-```
+<p align="left">
+  <a href="https://github.com/RafaelG0NCALO?tab=followers">
+    <img alt="seguidores" src="https://img.shields.io/github/followers/RafaelG0NCALO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores"/>
+  </a>
+  <a href="https://github.com/RafaelG0NCALO">
+    <img alt="visualizações" src="https://komarev.com/ghpvc/?username=RafaelG0NCALO&style=for-the-badge&color=236ad3&labelColor=1155ba&label=Visitas"/>
+  </a>
+  <a href="mailto:gonalo.rafael@gmail.com">
+    <img alt="gmail" src="https://img.shields.io/badge/Gmail-236ad3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1155ba"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-figueiredo-5b95a2202">
+    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-236ad3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1155ba"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## Linguagens e Tecnologias
 
-<div align="center">
-
-**Frontend**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Platform**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Liferay](https://img.shields.io/badge/Liferay-1572B6?style=for-the-badge&logo=liferay&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+<p align="left">
+  <img alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img alt="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  <img alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img alt="Node.js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+  <img alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img alt="Express" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
+  <img alt="Fastify" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg"/>
+  <img alt="Prisma" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg"/>
+  <img alt="MongoDB" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
+  <img alt="PostgreSQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+  <img alt="Docker" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## Estatísticas
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelG0NCALO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelG0NCALO&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelG0NCALO&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RafaelG0NCALO&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelG0NCALO&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 🤝 Contato
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonalo.rafael@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-figueiredo-5b95a2202)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaelG0NCALO)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RafaelG0NCALO.RafaelG0NCALO)
-
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
-
-</div>
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelG0NCALO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelG0NCALO&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</p>
