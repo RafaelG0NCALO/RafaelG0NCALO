@@ -38,20 +38,3 @@ Apaixonado por construir soluções web completas, desde interfaces até APIs e 
   <img alt="PostgreSQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
   <img alt="Docker" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
 </p>
-
----
-
-## Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelG0NCALO&theme=tokyonight&hide_border=true&background=0d1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7"/>
-</p>
-
-<p align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=RafaelG0NCALO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelG0NCALO&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/6EE7B7/RafaelG0NCALO" alt="contribution chart"/>
-</p>
