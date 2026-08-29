@@ -1,6 +1,6 @@
 ### Olá, eu sou Rafael Gonçalo Figueiredo 👋
 
-Desenvolvedor Fullstack · Liferay
+Desenvolvedor Fullstack · Node Fastify/express · ReactJs
 
 Apaixonado por construir soluções web completas, desde interfaces até APIs e automações. Atualmente trabalhando com portais Liferay e explorando automação com IA.
 
