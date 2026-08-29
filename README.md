@@ -1,8 +1,8 @@
 ### Olá, eu sou Rafael Gonçalo Figueiredo 👋
 
-Desenvolvedor Fullstack · Node Fastify/express · ReactJs
+Desenvolvedor Fullstack
 
-Apaixonado por construir soluções web completas, desde interfaces até APIs e automações. Atualmente trabalhando com portais Liferay e explorando automação com IA.
+Desenvolvedor Fullstack com experiência em desenvolvimento web que busca construir soluções web completas, desde interfaces até APIs e automações.
 
 <p align="left">
   <a href="https://github.com/RafaelG0NCALO?tab=followers">
